@@ -2,7 +2,7 @@
 /**
  * LDCompositeUniqueValidator class file.
  *
- * @author Louis DaPrato <l.daprato@gmail.com>
+ * @author Louis A. DaPrato <l.daprato@gmail.com>
  */
 
 /**
@@ -16,7 +16,7 @@
  * <li>{value}: replaced with current value of the attribute.</li>
  * </ul>
  *
- * @author Louis DaPrato <l.daprato@gmail.com>
+ * @author Louis A. DaPrato <l.daprato@gmail.com>
  */
 class LDCompositeUniqueValidator extends CValidator
 {
